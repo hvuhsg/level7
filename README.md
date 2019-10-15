@@ -1,6 +1,6 @@
 ## Encrypted message
 
-### kORYMgeefqbOnH4OpVc/mpY8yrs5Kvtu5X5KEljZ65Ar9DEcXrfqZM9oRkc=
+### HSBTkPQE33IEe17Znu9w9nmX4ia/PGef6nCXciZVVhNZAdBfrzPUm7L2vtY=
 
-#### Encrtpted at Wed Oct 16 02:16:32 2019
+#### Encrtpted at 10/16/2019 @ 01:15:52 (UTC+3)
 

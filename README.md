@@ -1,4 +1,4 @@
-## Encrypted message
+## Encrypted message:
 
 ### HSBTkPQE33IEe17Znu9w9nmX4ia/PGef6nCXciZVVhNZAdBfrzPUm7L2vtY=
 

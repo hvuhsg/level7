@@ -28,7 +28,7 @@ def encrypt_message(key, message):
 
 def main():
     key = create_key(get_seed())
-    message = b"<the link>"
+    message = b"<the message>"
     en_message = b64encode(encrypt_message(key, message))
     print(en_message)
 main()
